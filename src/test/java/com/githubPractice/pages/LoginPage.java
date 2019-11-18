@@ -9,4 +9,9 @@ public class LoginPage {
         System.out.println("github practice commit number 1");
     }
 
+    @Test
+    public void test2(){
+        System.out.println("github practice commit number 2");
+    }
+
 }
