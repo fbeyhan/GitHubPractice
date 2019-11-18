@@ -9,4 +9,9 @@ public class Nationwide {
     public static void main(String[] args) {
         driver.get("https://www.nationwide.com/");
     }
+    
+    public static void gitPractice(){
+        System.out.println("fatih git practice");
+    }
+    
 }
