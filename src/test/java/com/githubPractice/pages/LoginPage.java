@@ -8,5 +8,5 @@ public class LoginPage {
     public void test1(){
         System.out.println("github practice commit number 1");
     }
-    
+
 }
