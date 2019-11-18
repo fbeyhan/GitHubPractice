@@ -19,4 +19,9 @@ public class LoginPage {
         System.out.println("commit number 3");
     }
 
+    @Test
+    public void test4(){
+        System.out.println("test4");
+    }
+
 }
