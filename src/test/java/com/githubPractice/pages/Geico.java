@@ -16,4 +16,7 @@ public class Geico {
         driver.findElement(By.xpath("//label[contains(text(),'Green')]/preceding-sibling::input")).click();
         Thread.sleep(3000);
     }
+    public void loginSet(){
+        System.out.println("Login set");
+    }
 }
